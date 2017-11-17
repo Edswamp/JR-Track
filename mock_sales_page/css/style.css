@@ -1,0 +1,21 @@
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+}
+
+ul.nav-right {
+  display: flex;
+  justify-content: space-around;
+}
+
+ul.nav-right li {
+  padding: 15px;
+}
